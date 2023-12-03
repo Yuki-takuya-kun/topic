@@ -1,0 +1,13 @@
+airline,distribution,coherence,diversity
+AirChina,bertopic,0.5387619422007084,0.66
+AirChina,lda,0.4459434097817896,0.34
+ChinaEasternAirlines,bertopic,0.499570606989167,0.7666666666666667
+ChinaEasternAirlines,lda,0.4269494221349355,0.52
+AmericanAirlines,bertopic,0.5614163580645302,0.775
+AmericanAirlines,lda,0.5135854824807369,0.775
+DeltaAirlines,bertopic,0.49034087592298703,0.75
+DeltaAirlines,lda,0.4977212203079179,0.675
+AirFrance,bertopic,0.5852838736783906,0.5272727272727272
+AirFrance,lda,0.5252046752088332,0.5
+Lufthansa,bertopic,0.5615862576364891,0.7
+Lufthansa,lda,0.48296431757252795,0.5
